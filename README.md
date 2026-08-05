@@ -20,13 +20,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/visnuxx/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0392-is-subsequence](https://github.com/visnuxx/DSA/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/visnuxx/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/visnuxx/DSA/tree/master/0088-merge-sorted-array) |
+| [0392-is-subsequence](https://github.com/visnuxx/DSA/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/visnuxx/DSA/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/visnuxx/DSA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
