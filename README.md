@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/visnuxx/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/visnuxx/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/visnuxx/DSA/tree/master/0881-boats-to-save-people) |
+| [0986-interval-list-intersections](https://github.com/visnuxx/DSA/tree/master/0986-interval-list-intersections) |
 ## Sliding Window
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/visnuxx/DSA/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/visnuxx/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/visnuxx/DSA/tree/master/0881-boats-to-save-people) |
+| [0986-interval-list-intersections](https://github.com/visnuxx/DSA/tree/master/0986-interval-list-intersections) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/visnuxx/DSA/tree/master/0881-boats-to-save-people) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/visnuxx/DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
