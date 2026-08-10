@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/visnuxx/DSA/tree/master/0088-merge-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/visnuxx/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/visnuxx/DSA/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/visnuxx/DSA/tree/master/0881-boats-to-save-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -34,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/visnuxx/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/visnuxx/DSA/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/visnuxx/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/visnuxx/DSA/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/visnuxx/DSA/tree/master/0088-merge-sorted-array) |
+| [0881-boats-to-save-people](https://github.com/visnuxx/DSA/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/visnuxx/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/visnuxx/DSA/tree/master/0881-boats-to-save-people) |
 ## Minimax
 |  |
 | ------- |
@@ -64,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/visnuxx/DSA/tree/master/0877-stone-game) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/visnuxx/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
