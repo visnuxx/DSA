@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/visnuxx/DSA/tree/master/0658-find-k-closest-elements) |
 | [0877-stone-game](https://github.com/visnuxx/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/visnuxx/DSA/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/visnuxx/DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/visnuxx/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/visnuxx/DSA/tree/master/0986-interval-list-intersections) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/visnuxx/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/visnuxx/DSA/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/visnuxx/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/visnuxx/DSA/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/visnuxx/DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/visnuxx/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/visnuxx/DSA/tree/master/0986-interval-list-intersections) |
 ## Sorting
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/visnuxx/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/visnuxx/DSA/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/visnuxx/DSA/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/visnuxx/DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/visnuxx/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/visnuxx/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/visnuxx/DSA/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/visnuxx/DSA/tree/master/0948-bag-of-tokens) |
 ## Minimax
 |  |
 | ------- |
