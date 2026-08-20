@@ -62,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/visnuxx/DSA/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/visnuxx/DSA/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/visnuxx/DSA/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/visnuxx/DSA/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/visnuxx/DSA/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/visnuxx/DSA/tree/master/0877-stone-game) |
 ## Greedy
 |  |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/visnuxx/DSA/tree/master/1929-concatenation-of-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/visnuxx/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
