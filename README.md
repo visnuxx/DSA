@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/visnuxx/DSA/tree/master/0658-find-k-closest-elements) |
 | [0877-stone-game](https://github.com/visnuxx/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/visnuxx/DSA/tree/master/0881-boats-to-save-people) |
+| [0923-3sum-with-multiplicity](https://github.com/visnuxx/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/visnuxx/DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/visnuxx/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/visnuxx/DSA/tree/master/0986-interval-list-intersections) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/visnuxx/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/visnuxx/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0923-3sum-with-multiplicity](https://github.com/visnuxx/DSA/tree/master/0923-3sum-with-multiplicity) |
 ## String
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/visnuxx/DSA/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/visnuxx/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/visnuxx/DSA/tree/master/0881-boats-to-save-people) |
+| [0923-3sum-with-multiplicity](https://github.com/visnuxx/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/visnuxx/DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/visnuxx/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/visnuxx/DSA/tree/master/0986-interval-list-intersections) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/visnuxx/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/visnuxx/DSA/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/visnuxx/DSA/tree/master/0881-boats-to-save-people) |
+| [0923-3sum-with-multiplicity](https://github.com/visnuxx/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/visnuxx/DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/visnuxx/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -117,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/visnuxx/DSA/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [0923-3sum-with-multiplicity](https://github.com/visnuxx/DSA/tree/master/0923-3sum-with-multiplicity) |
 <!---LeetCode Topics End-->
