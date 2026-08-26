@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/visnuxx/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/visnuxx/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/visnuxx/DSA/tree/master/1929-concatenation-of-array) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/visnuxx/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/visnuxx/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Sliding Window
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/visnuxx/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/visnuxx/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0923-3sum-with-multiplicity](https://github.com/visnuxx/DSA/tree/master/0923-3sum-with-multiplicity) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/visnuxx/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/visnuxx/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## String
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/visnuxx/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/visnuxx/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/visnuxx/DSA/tree/master/0948-bag-of-tokens) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/visnuxx/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/visnuxx/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Minimax
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/visnuxx/DSA/tree/master/0923-3sum-with-multiplicity) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/visnuxx/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/visnuxx/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Prefix Sum
 |  |
