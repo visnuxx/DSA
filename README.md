@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/visnuxx/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/visnuxx/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0923-3sum-with-multiplicity](https://github.com/visnuxx/DSA/tree/master/0923-3sum-with-multiplicity) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/visnuxx/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/visnuxx/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/visnuxx/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## String
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/visnuxx/DSA/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/visnuxx/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/visnuxx/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/visnuxx/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/visnuxx/DSA/tree/master/0923-3sum-with-multiplicity) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/visnuxx/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/visnuxx/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/visnuxx/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Prefix Sum
