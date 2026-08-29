@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/visnuxx/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/visnuxx/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/visnuxx/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/visnuxx/DSA/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/visnuxx/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/visnuxx/DSA/tree/master/0658-find-k-closest-elements) |
 | [0877-stone-game](https://github.com/visnuxx/DSA/tree/master/0877-stone-game) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/visnuxx/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/visnuxx/DSA/tree/master/0088-merge-sorted-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/visnuxx/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0561-array-partition](https://github.com/visnuxx/DSA/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/visnuxx/DSA/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/visnuxx/DSA/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/visnuxx/DSA/tree/master/0923-3sum-with-multiplicity) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/visnuxx/DSA/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/visnuxx/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/visnuxx/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/visnuxx/DSA/tree/master/0948-bag-of-tokens) |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/visnuxx/DSA/tree/master/0069-sqrtx) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/visnuxx/DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
